@@ -1,0 +1,2 @@
+# Wulkanizacja
+# Kamil_Dierzbicki
